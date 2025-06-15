@@ -26,7 +26,7 @@ Before you begin, make sure you have the following installed:
 
 ## 🛠️ Setup Instructions
 
-### 📦 Step 1: Install .NET 8 SDK
+### 📦 Install .NET 8 SDK
 
 Check if you already have it:
 
@@ -35,14 +35,14 @@ dotnet --version
 
 ```
 
-# Getting Started
+## Getting Started
 
 ## Clone the Repository
 
 ```bash
  git clone  https://github.com/Sonseldeep/Game-Store.git
 
- cd Game-Store/GameStore.API
+ cd Game-Store
 ```
 
 ## Run the Project
