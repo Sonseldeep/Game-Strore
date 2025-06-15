@@ -33,23 +33,20 @@ Check if you already have it:
 ```bash
 dotnet --version
 
-
-
-
 ```
+
 # Getting Started
 
-##  Clone the Repository
+## Clone the Repository
 
 ```bash
  git clone  https://github.com/Sonseldeep/Game-Store.git
+
  cd Game-Store/GameStore.API
- ```
+```
 
 ## Run the Project
- 
- ```bash
- dotnet run
- ```
 
-
+```bash
+dotnet run
+```
