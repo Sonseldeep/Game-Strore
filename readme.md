@@ -37,3 +37,19 @@ dotnet --version
 
 
 ```
+# Getting Started
+
+##  Clone the Repository
+
+```bash
+ git clone  https://github.com/Sonseldeep/Game-Store.git
+ cd Game-Store/GameStore.API
+ ```
+
+## Run the Project
+ 
+ ```bash
+ dotnet run
+ ```
+
+
