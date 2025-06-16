@@ -1,12 +1,36 @@
 {
   "version": 2,
-  "dgSpecHash": "5o4S3SAqEPy+ySJC2tllYb4B5qp9Ep6iCX7DztzVId7/4NdM/c45NnryiS65tCqp9YdJLHE1r2FChzOwpl/4PA==",
+  "dgSpecHash": "l4wKbqpcHlVf9vr70ohn9Q8gWPbyUWyZ/kjpcFp9YN81EYTHe2q++7NTgy9kE3MpvhCJJfOmvrGm1HODd92kHQ==",
   "success": true,
   "projectFilePath": "/home/sonseldeep/Desktop/ASP Dot Net Core/GameStor.Api/GameStor.Api.csproj",
   "expectedPackageFiles": [
+    "/home/sonseldeep/.nuget/packages/microsoft.data.sqlite.core/8.0.2/microsoft.data.sqlite.core.8.0.2.nupkg.sha512",
+    "/home/sonseldeep/.nuget/packages/microsoft.entityframeworkcore/8.0.2/microsoft.entityframeworkcore.8.0.2.nupkg.sha512",
+    "/home/sonseldeep/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.2/microsoft.entityframeworkcore.abstractions.8.0.2.nupkg.sha512",
+    "/home/sonseldeep/.nuget/packages/microsoft.entityframeworkcore.analyzers/8.0.2/microsoft.entityframeworkcore.analyzers.8.0.2.nupkg.sha512",
+    "/home/sonseldeep/.nuget/packages/microsoft.entityframeworkcore.relational/8.0.2/microsoft.entityframeworkcore.relational.8.0.2.nupkg.sha512",
+    "/home/sonseldeep/.nuget/packages/microsoft.entityframeworkcore.sqlite/8.0.2/microsoft.entityframeworkcore.sqlite.8.0.2.nupkg.sha512",
+    "/home/sonseldeep/.nuget/packages/microsoft.entityframeworkcore.sqlite.core/8.0.2/microsoft.entityframeworkcore.sqlite.core.8.0.2.nupkg.sha512",
+    "/home/sonseldeep/.nuget/packages/microsoft.extensions.caching.abstractions/8.0.0/microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "/home/sonseldeep/.nuget/packages/microsoft.extensions.caching.memory/8.0.0/microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
+    "/home/sonseldeep/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/home/sonseldeep/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/home/sonseldeep/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/home/sonseldeep/.nuget/packages/microsoft.extensions.dependencymodel/8.0.0/microsoft.extensions.dependencymodel.8.0.0.nupkg.sha512",
+    "/home/sonseldeep/.nuget/packages/microsoft.extensions.logging/8.0.0/microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "/home/sonseldeep/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/home/sonseldeep/.nuget/packages/microsoft.extensions.options/8.0.0/microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "/home/sonseldeep/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "/home/sonseldeep/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
     "/home/sonseldeep/.nuget/packages/minimalapis.extensions/0.11.0/minimalapis.extensions.0.11.0.nupkg.sha512",
-    "/home/sonseldeep/.nuget/packages/minivalidation/0.8.0/minivalidation.0.8.0.nupkg.sha512"
+    "/home/sonseldeep/.nuget/packages/minivalidation/0.8.0/minivalidation.0.8.0.nupkg.sha512",
+    "/home/sonseldeep/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.6/sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
+    "/home/sonseldeep/.nuget/packages/sqlitepclraw.core/2.1.6/sqlitepclraw.core.2.1.6.nupkg.sha512",
+    "/home/sonseldeep/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.6/sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
+    "/home/sonseldeep/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.6/sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512",
+    "/home/sonseldeep/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/home/sonseldeep/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
+    "/home/sonseldeep/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }
