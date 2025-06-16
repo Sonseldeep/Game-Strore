@@ -52,10 +52,7 @@ public static class GamesEndpoints
         group.MapPost("/", (CreateGameDto newGame) =>
 
         {
-            if (string.IsNullOrEmpty(newGame.Name))
-            {
-                return Results.BadRequest("Name is required");
-            }
+
 
             GameDto game = new(
                 games.Count + 1,
