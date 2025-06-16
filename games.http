@@ -8,14 +8,14 @@ POST  http://localhost:5029/games
 Content-Type: application/json
 
 {
-    "name": "Minecraft",
+    "name": "Super Mario 3D Land",
     "genre": "Kids and Family", 
     "price": 19.99,
     "releaseDate": "2011-11-18"
 }
 
 ### 
-PUT  http://localhost:5029/games/15
+PUT  http://localhost:5029/games/1
 Content-Type: application/json
 
 {
