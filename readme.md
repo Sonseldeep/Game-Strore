@@ -45,8 +45,11 @@ dotnet --version
  cd Game-Store
 ```
 
-## Run the Project
+## Install and Run the Project (at once)
 
 ```bash
-dotnet run
+chmod +x setup-and-run.sh
+
+./run.sh
+
 ```
