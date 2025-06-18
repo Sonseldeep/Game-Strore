@@ -12,7 +12,13 @@ echo ""
 # Install NuGet packages
 dotnet add package MinimalApis.Extensions --version 0.11.0
 dotnet add package Microsoft.EntityFrameworkCore.Sqlite --version 8.0.2
-dotnet tool install --global dotnet-ef --version 8.0.2
+# Create a local tool manifest if it doesn't exist
+if [ ! -f .config/dotnet-tools.json ]; then
+    dotnet new tool-manifest
+fi
+
+# Install dotnet-ef locally
+dotnet tool install dotnet-ef --version 8.0.2
 dotnet add package Microsoft.EntityFrameworkCore.Design --version 8.0.2
 
 
