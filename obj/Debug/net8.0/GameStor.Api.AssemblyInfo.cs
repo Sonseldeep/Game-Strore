@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GameStor.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddd800623585708c258610fbe8ef4f6b861e4a07")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a04413b95505d3696c8caa35d8859d3281e5f16")]
 [assembly: System.Reflection.AssemblyProductAttribute("GameStor.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GameStor.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
