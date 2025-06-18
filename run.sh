@@ -12,6 +12,9 @@ echo ""
 # Install NuGet packages
 dotnet add package MinimalApis.Extensions --version 0.11.0
 dotnet add package Microsoft.EntityFrameworkCore.Sqlite --version 8.0.2
+dotnet tool install --global dotnet-ef --version 8.0.2
+dotnet add package Microsoft.EntityFrameworkCore.Design --version 8.0.2
+
 
 echo ""
 echo "✅ Dependencies installed successfully!"
